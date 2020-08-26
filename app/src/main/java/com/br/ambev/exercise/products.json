@@ -1,0 +1,79 @@
+[
+  {
+    "product_amount": 1,
+    "product_description": "120ML CAN",
+    "product_price_old": 150,
+    "product_price": 120,
+    "idProduct": "5f725eaa-6455-4e04-b2d6-396e984002f2",
+    "product_recycled": true,
+    "product_name": "Pepsi Lata",
+    "product_purchased": false,
+    "product_image": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product//-/R/-R002151.png"
+  },
+  {
+    "product_amount": 1,
+    "product_description": "120ML CAN",
+    "product_price_old": 150,
+    "product_price": 120,
+    "idProduct": "e25176ec-770a-42c3-8ae0-6790ca52f1e0",
+    "product_recycled": true,
+    "product_name": "Pepsi Zero",
+    "product_purchased": false,
+    "product_image": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product//-/R/-R002151.png"
+  },
+  {
+    "product_amount": 1,
+    "product_description": "120ML CAN",
+    "product_price_old": 150,
+    "product_price": 120,
+    "idProduct": "6905eb29-e5cd-4a5e-a221-b9fc591610ed",
+    "product_recycled": true,
+    "product_name": "Pepsi Lata",
+    "product_purchased": false,
+    "product_image": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product//-/R/-R002151.png"
+  },
+  {
+    "product_amount": 1,
+    "product_description": "120ML CAN",
+    "product_price_old": 150,
+    "product_price": 120,
+    "idProduct": "274673bb-bfc4-43a9-8639-e86a4443d82e",
+    "product_recycled": true,
+    "product_name": "Pepsi Lata",
+    "product_purchased": false,
+    "product_image": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product//-/R/-R002151.png"
+  },
+  {
+    "product_amount": 1,
+    "product_description": "120ML CAN",
+    "product_price_old": 150,
+    "product_price": 120,
+    "idProduct": "74660a03-75c9-49e7-b47d-2572e8ffee41",
+    "product_recycled": true,
+    "product_name": "Pepsi Lata",
+    "product_purchased": false,
+    "product_image": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product//-/R/-R002151.png"
+  },
+  {
+    "product_amount": 1,
+    "product_description": "120ML CAN",
+    "product_price_old": 150,
+    "product_price": 120,
+    "idProduct": "66fa95a1-6a56-41df-a7df-a94af46554c5",
+    "product_recycled": true,
+    "product_name": "Pepsi Lata",
+    "product_purchased": false,
+    "product_image": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product//-/R/-R002151.png"
+  },
+  {
+    "product_amount": 1,
+    "product_description": "120ML CAN",
+    "product_price_old": 150,
+    "product_price": 120,
+    "idProduct": "4d2c23b5-5272-4658-ad94-68ef056fb541",
+    "product_recycled": true,
+    "product_name": "Pepsi Lata",
+    "product_purchased": false,
+    "product_image": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product//-/R/-R002151.png"
+  }
+]
